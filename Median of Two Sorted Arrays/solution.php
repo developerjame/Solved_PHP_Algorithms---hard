@@ -48,5 +48,5 @@ class Solution {
     }
 }
 $solution = new Solution();
-echo $solution->findMedianSortedArrays([1,1], [7]);
+echo $solution->findMedianSortedArrays([1,2], [7]);
 ?>
