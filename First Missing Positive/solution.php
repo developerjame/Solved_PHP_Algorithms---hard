@@ -29,7 +29,7 @@ class Solution {
         return $n;
     }
 }
-$nums = [1,-1,2,3,5];
+$nums = [1,2,3,5];
 
 $solution = new Solution();
 echo $solution->firstMissingPositive($nums);
